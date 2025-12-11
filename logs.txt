@@ -1,0 +1,14 @@
+Loaded memory from disk. Resuming state.
+[Supervisor] routing to Researcher
+[Researcher] attempt=1 confidence=0.9 note='Found clear cite and concise summary.'
+[Writer] produced final text
+--- Final state ---
+{
+  "user_input": "Explain how transformers attention works",
+  "research_notes": [
+    "Found clear cite and concise summary."
+  ],
+  "confidence": 0.9,
+  "research_attempts": 1,
+  "final_text": "Summary (conf=0.9): Found clear cite and concise summary."
+}
